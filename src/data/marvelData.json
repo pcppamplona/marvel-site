@@ -1,0 +1,112 @@
+{
+  "characters": [
+    {
+      "name": "Homem-Aranha",
+      "history": "Após ser mordido por uma aranha radioativa, Peter Parker se torna o amigo da vizinhança, o Homem-Aranha.",
+      "appearances": [],
+      "image": "/assets/images/characters/945a09a3e60fe07716640c6985dc1d2a.jpg",
+      "note": 4
+    },
+    {
+      "name": "Wanda Maximoff",
+      "history": "Wanda Maximoff foi sequestrada da Sérvia e trazida para a Montanha Wundagore, base do Alto Evolucionário. Durante anos, ela e seu irmão gêmeo, Pietro, acreditavam que eram filhos de um casal de ciganos.",
+      "appearances": [
+        "Vingadores - Era de Ultron",
+        "Capitão América - Guerra Civil",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato",
+        "WandaVision"
+      ],
+      "image": "/assets/images/characters/b893191557cf754cef9c097de5d49b27.jpg",
+      "note": 4
+    },
+    {
+      "name": "Thanos",
+      "history": "A lua Titã era governada por Mentor (A'Lars), quando então reinava paz e tecnologia. Mentor tinha dois filhos: Eros e Thanos. Ao contrário do irmão, Thanos, era bem mais poderoso e almejava ainda mais.",
+      "appearances": [
+        "Vingadores",
+        "Guardiões da Galáxia - vol. I",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato"
+      ],
+      "image": "/assets/images/characters/c1daa09620c9d57100d61f343db95ae0.jpg",
+      "note": 5
+    },
+    {
+      "name": "Hulk",
+      "history": "Na história original dos quadrinhos, o Hulk é um selvagem e poderoso alter ego do Dr. Robert Bruce Banner, um cientista que foi atingido por raios gama enquanto salvava um adolescente durante o teste militar.",
+      "appearances": [
+        "Vingadores",
+        "Vingadores - Era de Ultron",
+        "Thor - Ragnarok",
+        "Vingadores - Guerra Infinita",
+        "Vingadores - Ultimato"
+      ],
+      "image": "/assets/images/characters/be814e5b546729844d3d73f1514a848b.jpg",
+      "note": 4
+    }
+  ],
+  "movies": [
+    {
+      "name": "Homem de Ferro",
+      "sinopse": "Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor, ao ser sequestrado, ele é obrigado a construir uma arma devastadora, mas ao invés disso, cria uma armadura capaz de mudar a história.",
+      "image": "/assets/images/movies/0aeb54967e14b1ec548292e800664220.jpg",
+      "note": 4,
+      "data": "30/04/2008",
+      "cronologic": 3
+    },
+    {
+      "name": "Homem de Ferro 2",
+      "sinopse": "O mundo já sabe que o inventor bilionário Tony Stark (Robert Downey Jr.) é o super-herói blindado Homem de Ferro. Sofrendo pressão do governo, da mídia e do público para compartilhar sua tecnologia com as forças armadas.",
+      "image": "/assets/images/movies/07736f78328251e99c2ac2188b738a9d.jpg",
+      "note": 4,
+      "data": "30/04/2010",
+      "cronologic": 4
+    },
+    {
+      "name": "Thor",
+      "sinopse": "Quando é banido do reino de Asgard e exilado na Terra, o arrogante guerreiro Thor (Chris Hemsworth) é obrigado a lutar para reaver seus poderes perdidos.",
+      "image": "/assets/images/movies/1ec75fb52d39d18752561e6e32ec99a5.jpg",
+      "note": 4,
+      "data": "29/04/2011",
+      "cronologic": 5
+
+    },
+    {
+      "name": "Capitão América",
+      "sinopse": "Em Capitão América: O Primeiro Vingador, conhecemos a história de Steve Rogers (Chris Evans) e como ele se tornou o melhor soldado do mundo.",
+      "image": "/assets/images/movies/1cb329c152524006b804f75d7f08ff99.jpg",
+      "note": 4,
+      "data": "29/07/2011",
+      "cronologic": 1
+    },
+    {
+      "name": "Capitã Marvel",
+      "sinopse": "Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls.",
+      "image": "/assets/images/movies/4886c3fd9f56bb07705b7334d2f6c483.jpg",
+      "note": 4,
+      "data": "07/03/2019",
+      "cronologic": 2
+    }
+  ],
+  "comics": [
+    {
+      "name": "Thor: Vikings",
+      "sinopse": "Garth Ennis e sua violência atacam novamente na HQ que leva a violência das histórias de Thor ao limite! Na minissérie de 2003 vemos vikings de um passado distante voltando a vida.",
+      "image": "/assets/images/comics/207d9b536eb2ab91061ced225dea3698.jpg",
+      "note": 5
+    },
+    {
+      "name": "Surfista Prateado:Parábola",
+      "sinopse": "O único oponente do Devorador de Mundos é o herói que ele aprisionou na Terra: o Surfista Prateado, Galactus jurou não consumir o planeta, mas e se, em vez disso, ele transformar a civilização em seus adoradores?",
+      "image": "/assets/images/comics/1159ac7d061e0c7021eebf379d039cf3.jpg",
+      "note": 5
+    },
+    {
+      "name": "Wolverine: Origens",
+      "sinopse": "Origem é uma minissérie em quadrinhos publicada pela Marvel Comics em seis edições, entre 2001 e 2002. A história conta a revelação do passado do personagem Wolverine.",
+      "image": "/assets/images/comics/3fbe3ffcb0411f273383551d8bcfb54e.jpg",
+      "note": 4
+    }
+  ]
+}
